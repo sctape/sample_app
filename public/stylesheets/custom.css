@@ -136,3 +136,9 @@ td.sidebar {
   border: 1px solid #999;
   margin-bottom: -15px;
 }
+
+/* User new page */
+
+div.field, div.actions {
+  margin-bottom: 10px;
+}
